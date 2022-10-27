@@ -1,7 +1,7 @@
 {
   "name": "vue-laravel-paginate",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.3",
+  "description": "This is vue js package, using to Laravel API",
   "main": "dist/vue-laravel-paginate.ssr.js",
   "browser": "dist/vue-laravel-paginate.esm.js",
   "module": "dist/vue-laravel-paginate.esm.js",
@@ -20,6 +20,10 @@
     "build:unpkg": "cross-env NODE_ENV=production rollup --config build/rollup.config.js --format iife"
   },
   "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RashiqulRony/vue-laravel-paginate"
+  },
   "devDependencies": {
     "@babel/core": "^7.14.6",
     "@babel/preset-env": "^7.14.7",
@@ -44,5 +48,13 @@
   },
   "engines": {
     "node": ">=12"
-  }
+  },
+  "keywords": [
+    "Vue JS",
+    "Pagination",
+    "Vue Pagination",
+    "Vue Laravel Paginate"
+  ],
+  "homepage": "https://github.com/RashiqulRony",
+  "author": "Rashiqul Rony <rashiqulrony@gmail.com> (https://github.com/RashiqulRony)"
 }

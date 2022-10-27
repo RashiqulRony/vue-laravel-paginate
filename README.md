@@ -30,7 +30,7 @@ mounted() {
 
 methods:{
     getData(page = 1) {
-        axios.get('your-laravel-api').then((response) => {
+        axios.get('your-laravel-api'+'?page='+page).then((response) => {
           this.data = response.data
         }).catch((error) => {
           console.log(error);
