@@ -1,6 +1,10 @@
 # vue laravel paginate 
 _**this package use only laravel api purpose**_
 
+<p align="center">
+<img src="https://i.ibb.co/Vw52Kc1/download.png" alt="download" border="0" />
+</p>
+
 
 ### Install Package
 ```
