@@ -1,6 +1,6 @@
 {
   "name": "vue-laravel-paginate",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "This is vue js package, using to Laravel API",
   "main": "dist/vue-laravel-paginate.ssr.js",
   "browser": "dist/vue-laravel-paginate.esm.js",
